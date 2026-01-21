@@ -6,4 +6,4 @@ Documentation for LEADER, EPESC, and the LESFMIP
 | **LESFMIP**: Large Ensemble Single-Forcing Model Intercomparison Project
 
 
-To contribute documentation, contact Jonathon Wright: jswright@tsinghua.edu.cn
+| To contribute documentation, contact Jonathon Wright: jswright@tsinghua.edu.cn
