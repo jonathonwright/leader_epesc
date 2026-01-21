@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Documentation for LEADER, EPESC, and the LESFMIP
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+**LEADER**: Large Ensembles for Attribution of Dynamically-driven ExtRemes
+**EPESC**: Explaining and Predicting Earth System Change
+**LESFMIP**: Large Ensemble Single-Forcing Model Intercomparison Project
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+To contribute documentation, contact Jonathon Wright: jswright@tsinghua.edu.cn
